@@ -1,1 +1,1 @@
-# Full stack GraphQL, Express & React app 
+# Project Management App
